@@ -1,0 +1,7 @@
+google-api-python-client
+pandas
+openpyxl
+youtube-transcript-api
+sentence-transformers
+detoxify
+plotly
