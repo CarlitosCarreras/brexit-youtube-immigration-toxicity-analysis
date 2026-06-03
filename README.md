@@ -1,4 +1,4 @@
-# Brexit Immigration Discourse Analysis
+# Brexit Immigration Discourse and Toxicity Analysis
 
 ## Project Overview
 
