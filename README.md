@@ -91,6 +91,24 @@ Each comment received a toxicity score ranging from 0 to 1.
 
 ---
 
+## Repository Structure
+
+```text
+brexit-immigration-discourse-analysis/
+
+│
+├── Brexit_Immigration_Discourse_and_Toxicity_Analysis.ipynb
+│
+├── data/
+│   └── README.md
+│
+├── requirements.txt
+│
+└── README.md
+```
+
+---
+
 ## Skills Demonstrated
 
 * API Data Collection
