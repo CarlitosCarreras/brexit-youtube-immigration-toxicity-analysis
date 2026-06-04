@@ -10,7 +10,7 @@ The figures summarize the prevalence of toxic language and the temporal dynamics
 
 File:
 
-`immigration_comments_by_toxicity.png`
+![Immigration Comments by Toxicity](Immigration_Comments_by_Level_of_Toxicity.png)
 
 This figure shows the distribution of immigration-related comments according to three toxicity levels (low, medium, and high) based on Detoxify scores.
 
@@ -26,7 +26,7 @@ Main finding:
 
 File:
 
-`youtube_comments_over_time.png`
+![YouTube Comments Over Time](2016_EU_Referendum_YouTube_Comments.png)
 
 This figure displays the monthly evolution of comment activity associated with videos from the BBC News playlist "2016 EU Referendum".
 
