@@ -76,6 +76,18 @@ Each comment received a toxicity score ranging from 0 to 1.
 
 ---
 
+## Key Visual Results
+
+### Distribution of Toxicity Levels
+
+![Toxicity Distribution](results/immigration_comments_by_toxicity.png)
+
+### Evolution of YouTube Comments Over Time
+
+![Comments Over Time](results/youtube_comments_over_time.png)
+
+---
+
 ## Technologies Used
 
 * Python
@@ -97,13 +109,17 @@ Each comment received a toxicity score ranging from 0 to 1.
 brexit-immigration-discourse-analysis/
 
 │
-├── Brexit_Immigration_Discourse_and_Toxicity_Analysis.ipynb
-│
 ├── data/
 │   └── README.md
 │
-├── requirements.txt
+├── results/
+│   ├── README.md
+│   ├── immigration_comments_by_toxicity.png
+│   └── youtube_comments_over_time.png
 │
+├── Brexit_Immigration_Discourse_and_Toxicity_Analysis.ipynb
+├── Brexit_Immigration_Discourse_and_Toxicity_Analysis.html
+├── requirements.txt
 └── README.md
 ```
 
