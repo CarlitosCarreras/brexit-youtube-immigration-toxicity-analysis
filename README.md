@@ -80,11 +80,11 @@ Each comment received a toxicity score ranging from 0 to 1.
 
 ### Evolution of YouTube Comments Over Time
 
-![Comments Over Time](results/youtube_comments_over_time.png)
+![Comments Over Time](results/2016_EU_Referendum_YouTube_Comments.png)
 
 ### Distribution of Toxicity Levels
 
-![Toxicity Distribution](results/immigration_comments_by_toxicity.png)
+![Toxicity Distribution](results/Immigration_Comments_by_Level_of_Toxicity.png)
 
 ---
 
