@@ -114,11 +114,10 @@ brexit-immigration-discourse-analysis/
 │
 ├── results/
 │   ├── README.md
-│   ├── immigration_comments_by_toxicity.png
-│   └── youtube_comments_over_time.png
-│
+│   ├── youtube_comments_over_time.png
+│   └── immigration_comments_by_toxicity.png
+│  
 ├── Brexit_Immigration_Discourse_and_Toxicity_Analysis.ipynb
-├── Brexit_Immigration_Discourse_and_Toxicity_Analysis.html
 ├── requirements.txt
 └── README.md
 ```
